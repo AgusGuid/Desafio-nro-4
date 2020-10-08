@@ -61,6 +61,7 @@
             // labelDir
             // 
             this.labelDir.AutoSize = true;
+            this.labelDir.ForeColor = System.Drawing.Color.Red;
             this.labelDir.Location = new System.Drawing.Point(50, 9);
             this.labelDir.Name = "labelDir";
             this.labelDir.Size = new System.Drawing.Size(52, 13);
